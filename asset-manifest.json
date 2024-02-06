@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa2db489.css",
+    "main.js": "/static/js/main.76869ad6.js",
+    "static/media/img5.jpeg": "/static/media/img5.d70a47de734c69699305.jpeg",
+    "static/media/img7.jpeg": "/static/media/img7.02948f9cda6f0c7f0159.jpeg",
+    "static/media/chocodrip.png": "/static/media/chocodrip.c8990481a5533b0efd6d.png",
+    "static/media/img1.jpeg": "/static/media/img1.cff579154c7f6a0da9f6.jpeg",
+    "static/media/img6.jpeg": "/static/media/img6.385244fff3780b664d5b.jpeg",
+    "static/media/img2.jpeg": "/static/media/img2.dc04a721af5035be3ca8.jpeg",
+    "static/media/img4.jpeg": "/static/media/img4.3efc13da7edf1d536f93.jpeg",
+    "static/media/img8.jpeg": "/static/media/img8.bbe22f29b2619537d77d.jpeg",
+    "static/media/img3.jpeg": "/static/media/img3.5264cb76d652843c83ff.jpeg",
+    "static/media/img9.jpeg": "/static/media/img9.5e5a7d69868305213c1a.jpeg",
+    "static/media/ferrero.jpg": "/static/media/ferrero.4c322fa4aed707350959.jpg",
+    "static/media/heartblush.jpg": "/static/media/heartblush.7be46a54f0b932544069.jpg",
+    "static/media/CuteLove.ttf": "/static/media/CuteLove.675ac2fdb74e28010745.ttf",
+    "static/media/fruitandnut.jpg": "/static/media/fruitandnut.68e7b6207e115fa1734e.jpg",
+    "index.html": "/index.html",
+    "main.aa2db489.css.map": "/static/css/main.aa2db489.css.map",
+    "main.76869ad6.js.map": "/static/js/main.76869ad6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2db489.css",
+    "static/js/main.76869ad6.js"
+  ]
+}
